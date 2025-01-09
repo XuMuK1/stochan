@@ -28,11 +28,11 @@ Telegram: <https://t.me/stoch24>
 
 ## Contributions
 
-Максим Каледин, [LAMBDA][https://cs.hse.ru/iai/lambda/]
+Максим Каледин, [LAMBDA](https://cs.hse.ru/iai/lambda/)
 
-Дарья Демидова, [HDI Lab][https://cs.hse.ru/iai/hdilab/]
+Дарья Демидова, [HDI Lab](https://cs.hse.ru/iai/hdilab/)
 
-Денис Ракитин, [Bayes Lab][https://cs.hse.ru/iai/bayeslab]
+Денис Ракитин, [Bayes Lab](https://cs.hse.ru/iai/bayeslab)
 
 ...и многие другие, кто словом и делом помогал делать всё лучше, отдельное спасибо нашим студентам и активным внешним участникаи, без вас этот курс не был бы таким, какой он есть.
 
